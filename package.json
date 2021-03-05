@@ -10,9 +10,12 @@
     "type": "git",
     "url": "git+https://github.com/wadelu78/react-lifecycle-example.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "react",
+    "lifecycle"
+  ],
+  "author": "Wei",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/wadelu78/react-lifecycle-example/issues"
   },
