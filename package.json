@@ -13,12 +13,10 @@
   },
   "lint-staged": {
     ".js": [
-      "eslint --fix",
-      "git add"
+      "eslint --fix"
     ],
     ".{js,json,md}": [
-      "prettier --write",
-      "git add"
+      "prettier --write"
     ]
   },
   "repository": {
